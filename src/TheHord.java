@@ -3,8 +3,6 @@ import javafx.scene.layout.Pane;
 
 /**
  * Alayah Benjamin
- * COMP 167: MAJOR PROJECT 3
- * Section 1
  * Date: November 10th 2025
  * This is the GamePane Class
  *This will be the class that groups all the aliens together to form and move all the same way and speed
