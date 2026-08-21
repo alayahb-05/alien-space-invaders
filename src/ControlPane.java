@@ -5,8 +5,6 @@ import javafx.scene.layout.HBox;
 
 /**
  * Alayah Benjamin
- * COMP 167: MAJOR PROJECT 3
- * Section 1
  * Date: November 10th 2025
  * This is the ControlPane Class
  *This will be the Control Panel where the buttons to start, restart and exit are
