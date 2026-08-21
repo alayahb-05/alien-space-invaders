@@ -11,8 +11,6 @@ import java.util.Random;
 
 /**
  * Alayah Benjamin
- * COMP 167: MAJOR PROJECT 3
- * Section 1
  * Date: November 10th 2025
  * This is the SpaceShip Class
  *This will allow the ship to randomly move across the screen and then will disappear when it gets hit
