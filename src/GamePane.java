@@ -7,8 +7,6 @@ import javafx.scene.layout.BorderPane;
 
 /**
  * Alayah Benjamin
- * COMP 167: MAJOR PROJECT 3
- * Section 1
  * Date: November 10th 2025
  * This is the GamePane Class
  *This will be the controls the user inputs and updates the game animation
