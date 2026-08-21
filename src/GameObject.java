@@ -2,8 +2,6 @@ import javafx.scene.image.ImageView;
 
 /**
  * Alayah Benjamin
- * COMP 167: MAJOR PROJECT 3
- * Section 1
  * Date: November 10th 2025
  * This is the GameObject class that provides direction, speed, and the boundary info for the motion
  */
