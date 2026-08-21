@@ -6,8 +6,6 @@ import javafx.scene.layout.Pane;
 
 /**
  * Alayah Benjamin
- * COMP 167: MAJOR PROJECT 3
- * Section 1
  * Date: November 10th 2025
  * This is the Alien Class
  *This will be the class that helps display each type of alien and crop them to later be formed in the hord
