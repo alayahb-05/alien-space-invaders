@@ -1,7 +1,5 @@
 /**
  * Alayah Benjamin
- * COMP 167: MAJOR PROJECT 3
- * Section 1
  * Date: November 10th 2025
  * This is the Invader Class
  *This will be displayed as a base for all the alien invader objects
