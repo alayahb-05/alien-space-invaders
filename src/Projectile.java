@@ -24,7 +24,7 @@ public class Projectile extends GameObject {
         super(); //Inheriting from parent class
         this.setX(startX);
         this.setY(startY);
-        this.setSpeed(13);
+        this.setSpeed(30);
         this.active = true;
 
         loadImage();
