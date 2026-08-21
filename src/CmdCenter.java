@@ -5,8 +5,6 @@ import java.io.FileNotFoundException;
 
 /**
  * Alayah Benjamin
- * COMP 167: MAJOR PROJECT 3
- * Section 1
  * Date: November 10th 2025
  * This is the CmdCenter (Command Center) class
  * Represent the player's main "base" station that will move the ship and fire one projectile at a time
