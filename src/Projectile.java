@@ -5,8 +5,6 @@ import java.io.FileInputStream;
 
 /**
  * Alayah Benjamin
- * COMP 167: MAJOR PROJECT 3
- * Section 1
  * Date: November 10th 2025
  * This is the Projectile Class
  * Represents the "firing" mad by the CmdCenter that can be active one at a time
